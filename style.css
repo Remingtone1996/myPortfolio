@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: 300;
+    color: rgb(19, 12, 2);
+}
+p{
+    font-weight: 600;
+    color:#333
+}
+
+}
+
+#sidenav-icons {
+    padding-top: 16px;
+}
+
+footer {
+    background-color: hsla(0, 0%, 94%, 0.63);
+    padding: 10px;
+    text-align: center;
+    color: #333;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
