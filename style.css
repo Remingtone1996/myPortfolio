@@ -9,7 +9,9 @@ h1,h2,h3,h4,h5 {
 }
 p{
     font-weight: 600;
-    color:#333
+    color:#333;
+    justify-content: space-between;
+    text-align: justify;
 }
 
 }
@@ -19,11 +21,9 @@ p{
 }
 
 footer {
-    background-color: hsla(0, 0%, 94%, 0.63);
-    padding: 10px;
-    text-align: center;
-    color: #333;
-    font-size: 14px;
-    margin: 0;
-    padding: 0;
+    text-align: center; /* Center the content horizontally */
+    background-color: #0e0d0d; /* Replace with the color of your choice */
+    padding: 10px; /* Optional: Add padding to create spacing around the content */
+    color: #b9c2f5; /* Optional: Set the text color */
+    font-size: 25px; /* Optional: Adjust the font size */
 }
